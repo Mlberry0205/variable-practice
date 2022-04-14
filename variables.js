@@ -5,3 +5,7 @@ var weather = "cloudy with a chance of rain"
 var age = 31
 var birthday = 2591
 var year = 2022
+
+var books = true
+var beach = false
+var table = false
